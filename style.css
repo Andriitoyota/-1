@@ -1,0 +1,32 @@
+html, body{
+    font-size: 16px;
+    background: rgb(230,230,230);
+    background: linear-gradient(90deg, rgba(230,230,230,1) 12%, rgba(212,219,37,0.6759746134782038) 35%, rgba(255,0,83,1) 67%);
+}
+.lorem{
+    padding: 1rem;
+    background: white;
+    width: 75%;
+    margin: 1rem auto;
+}
+h1{
+    padding-bottom: 1.5rem;
+    border-bottom: 3px #e6e6e6;
+}
+.text{
+    border: 3px solid #e6e6e6;
+    padding: 1.5rem;
+}
+table {
+  width: 40%;
+  border-color: #e6e6e6;
+  border-collapse: collapse;
+  text-align: center;
+  margin: auto;
+}
+
+table th,
+table td {
+  border: 1px solid #e6e6e6;
+  padding: 0.2rem 0.5rem;
+}
